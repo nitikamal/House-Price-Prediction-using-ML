@@ -1,5 +1,6 @@
 # House-Price-Prediction-using-ML
 Predicted Housing Prices in Bengaluru using ML 
+
 **Goal:** To predict housing prices in Bengaluru based on factors like location, BHK and area.
 
 **Description:** The dataset includes data about houses based on location, BHK, area and bath. The analysis conducted includes data exploration, data cleaning, formatting and data filtering.It uses HTML and CSS for the front-end to make it user-friendly. Used Python Flask for backend as well as Python libraries like Pandas, Numpy for data exploration and data cleaning, Python Matplotlib and Seaborn for data vizualisation.
